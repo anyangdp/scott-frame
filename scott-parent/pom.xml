@@ -44,7 +44,7 @@
         <fastjson.version>1.2.56</fastjson.version>
         <mybatis-typehandlers-jsr310>1.0.1</mybatis-typehandlers-jsr310>
         <rocketmq-client-version>4.5.2</rocketmq-client-version>
-        <netty-all>4.1.13.Final</netty-all>
+        <netty-all>4.1.42.Final</netty-all>
         <docker.registry>192.168.1.1:5000</docker.registry>
         <guava.version>21.0</guava.version>
     </properties>
