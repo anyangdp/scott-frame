@@ -19,7 +19,7 @@ import java.util.*;
  */
 public class CodeGenerator {
     public static String jdbcDriverClass = "com.mysql.jdbc.Driver";
-    public static String jdbcUrl = "jdbc:mysql://localhost:3306/points?characterEncoding=utf8&serverTimezone=UTC";
+    public static String jdbcUrl = "jdbc:mysql://localhost:3306/rebate?characterEncoding=utf8&serverTimezone=UTC";
     public static String jdbcUsername = "root";
     public static String jdbcPassword = "root";
     public static String jdbcDbName = "rebate";//数据库名
